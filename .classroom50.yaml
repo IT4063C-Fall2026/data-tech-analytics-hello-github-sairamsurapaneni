@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "data-tech-analytics"
+assignment: "hello-github"
+owner:
+  username: "sairamsurapaneni"
+  id: 318350896
+  accepted_at: "2026-08-31T03:25:58Z"
+source:
+  owner: "IT4063C-Fall2026"
+  owner_id: 320344006
+  repo: "hello-github"
+  branch: "main"
