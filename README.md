@@ -24,15 +24,16 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to set up a GitHub classroom repository and clone it to my computer using GitHub Desktop.
+- The distinction between staging changes (`git add`), capturing snapshots locally (`git commit`), and uploading them online (`git push`).
 
 **I struggled with:** (repeat as needed)
-- .
+- Understanding Markdown syntax formatting when creating new files for the first time.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing at this time; everything went smoothly after following the workflow.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20 ] out of 20.
 
 
 ## 📚 References and Citations
